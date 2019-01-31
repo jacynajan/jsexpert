@@ -1,28 +1,28 @@
 .site-wrapper {
     margin-top: 110px;
-  }
-  
-  .text-center {
+}
+
+.text-center {
     margin-top: 20px;
-  }
-  
-  .navbar {
+}
+
+.navbar {
     -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16),
-      0 2px 10px 0 rgba(0, 0, 0, 0.12);
+        0 2px 10px 0 rgba(0, 0, 0, 0.12);
     -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16),
-      0 2px 10px 0 rgba(0, 0, 0, 0.12);
+        0 2px 10px 0 rgba(0, 0, 0, 0.12);
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  }
-  
-  .info-wrapper {
+}
+
+.info-wrapper {
     padding: 5px;
     text-align: left;
-  }
-  
-  .count-selector {
+}
+
+.count-selector {
     width: 130px;
-  }
-  
-  .top-padding {
+}
+
+.top-padding {
     padding-top: 10px;
-  }
+}
